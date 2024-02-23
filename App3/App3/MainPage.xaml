@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App3.MainPage">
+
+    <StackLayout Orientation="Horizontal" BackgroundColor="LavenderBlush" Margin="20,10" Padding="5">
+
+        <!--<Label Text="GOVNO" TextDecorations="Strikethrough" FontSize="20" TextTransform="Default" TextColor="Coral"/>
+        <Button Text="Najat" TextColor="Black" Clicked="Button_Clicked"/>
+        <Label Text="govnishe?"/>
+        <CheckBox />
+        <RadioButton GroupName="da"/>
+        <RadioButton GroupName="da"/>
+        <Entry Placeholder="heheheehe"/>
+        <Editor Placeholder="pupupuuiu"/>
+        <Slider Maximum="50"/>
+        <Label x:Name="ee" Text="11111"/>
+        <Image Source="https://e7.pngegg.com/pngimages/516/298/png-clipart-zucchini-vegetable-marrow-recipe-dish-melon-natural-foods-leaf-vegetable-thumbnail.png"  />-->
+        <!--<Button Clicked="Button_Clicked"/>
+        <Label x:Name="ee" Text="141232131"/>-->
+        <Label TextColor="black" Text="govnoo"/>
+        <Label TextColor="Purple" Text="govnico"/>
+
+    </StackLayout>
+
+</ContentPage>
